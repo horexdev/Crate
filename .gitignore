@@ -1,0 +1,10 @@
+/UserSettings
+/.vs
+/.idea
+.vsconfig
+.collabignore
+/Library
+/Logs
+/Temp
+/Assets
+/obj
