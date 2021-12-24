@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Pixel Adventure 1/Assets/Items/Boxes/Box1/Break (28x24).png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Boxes/Box1/Hit (28x24).png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Boxes/Box2/Break (28x24).png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Boxes/Box2/Hit (28x24).png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Boxes/Box3/Break (28x24).png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Boxes/Box3/Hit (28x24).png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Checkpoints/Checkpoint/Checkpoint (Flag
+      Idle)(64x64).png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Checkpoints/Checkpoint/Checkpoint (Flag
+      Out) (64x64).png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Checkpoints/End/End (Pressed) (64x64).png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Checkpoints/Start/Start (Moving) (64x64).png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Fruits/Apple.png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Fruits/Bananas.png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Fruits/Cherries.png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Fruits/Collected.png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Fruits/Kiwi.png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Fruits/Melon.png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Fruits/Orange.png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Fruits/Pineapple.png.meta
+    - Assets/Pixel Adventure 1/Assets/Items/Fruits/Strawberry.png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Appearing (96x96).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Desappearing (96x96).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Mask Dude/Double Jump (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Mask Dude/Hit (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Mask Dude/Idle (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Mask Dude/Run (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Mask Dude/Wall Jump (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Double Jump (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Hit (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Idle (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Run (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Wall Jump (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Pink Man/Double Jump (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Pink Man/Hit (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Pink Man/Idle (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Pink Man/Run (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Pink Man/Wall Jump (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Double Jump (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Hit (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Idle (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Run (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Wall Jump (32x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Other/Confetti (16x16).png.meta
+    - Assets/Pixel Adventure 1/Assets/Terrain/GrassGround.png.meta
+    - Assets/Pixel Adventure 1/Assets/Terrain/Terrain Sliced (16x16).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Arrow/Hit (18x18).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Arrow/Idle (18x18).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Blocks/HitSide (22x22).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Blocks/HitTop (22x22).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Blocks/Part 1 (22x22).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Blocks/Part 2 (22x22).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Falling Platforms/On (32x10).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Fan/On (24x8).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Fire/Hit (16x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Fire/On (16x32).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown On (32x8).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Platforms/Grey On (32x8).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Rock Head/Blink (42x42).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Rock Head/Bottom Hit (42x42).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Rock Head/Left Hit (42x42).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Rock Head/Right Hit (42x42).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Rock Head/Top Hit (42x42).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Sand Mud Ice/Sand Mud Ice Sliced (16x6).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Saw/On (38x38).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Spike Head/Blink (54x52).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Spike Head/Bottom Hit (54x52).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Spike Head/Left Hit (54x52).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Spike Head/Right Hit (54x52).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Spike Head/Top Hit (54x52).png.meta
+    - Assets/Pixel Adventure 1/Assets/Traps/Trampoline/Jump (28x28).png.meta
+    - Assets/Scenes/Lvl1.unity
+    - "Assets/Textures/UI/\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3 - \u043A\u043E\u043F\u0438\u044F.png.meta"
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/MemorySettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
